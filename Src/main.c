@@ -95,11 +95,12 @@ int main(void)
 
   /* USER CODE END 2 */
 
+  int i = 0;
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-
+     i++;
   /* USER CODE END WHILE */
 
   /* USER CODE BEGIN 3 */
